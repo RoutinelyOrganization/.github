@@ -9,9 +9,17 @@
 
 ### ⏲️ Routinely
 
-<p align=left>
-  A Routinely é uma ferramenta projetada para te ajudar a manter uma rotina saudável e equilibrada. Permitindo ao usuário registrar suas atividades diárias, incluindo trabalho, exercícios, passatempos e tarefas domésticas. A aplicação usa algoritmos para equilibrar essas atividades ao longo do tempo, garantindo que você tenha tempo suficiente para cada atividade. Além disso, a Routinely oferece recursos de lembrete para manter a rotina e relatórios de progresso para motivação adicional.
-</p>
+O Routinely é uma aplicação que busca proporcionar uma experiência de autoorganização inteligente, atuando em 3 pilares da rotina pessoal:
+
+1. Controle de agendamento de tarefas pontuais como consultas, reuniões, compras, telefonemas, etc.
+2. Desenvolvimento de novos hábitos como treinos, leitura, alimentação, meditação, estudo, etc.
+3. Execução de objetivos de longo prazo como viagens, cursos, trabalhos acadêmicos, festas, etc
+
+Diferentemente de outras ferramentas do mercado, nossa proposta é atuar no processo de gestão sobre o uso do tempo, permitindo ao usuário, dessa forma, uma visão simples mas realista do seu momento de vida, melhorando a tomada de decisão sobre tarefas, hábitos e projetos.
+
+Com isso esperamos possibilitar aos usuários atingir maiores níveis de produtividade, controle e realização pessoal.
+
+O Routinely será disponibilizado para web e aplicativo android.
 
 ---
 
